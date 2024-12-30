@@ -36,6 +36,8 @@ At **Grilli**, we believe that every dish tells a story. This project is a celeb
 ├── style-guide.md   # Style guide for design consistency
 └── README.md        # Project documentation
 
+---
+
 ## 🚀 Getting Started
 
 ## Clone this Repository
@@ -89,9 +91,7 @@ Email: nikitakarmakar@example.com (Replace with actual contact details)
 
 ---
 
-Enjoy exploring the Grilli Restaurant Website! 🌟
+## Enjoy exploring the Grilli Restaurant Website! 🌟
 
----
-
-Feel free to copy and paste this version into your `README.md` file. Let me know if you need further edits!
+**Feel free to copy and paste this version into your `README.md` file. Let me know if you need further edits!**
 
